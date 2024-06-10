@@ -1,0 +1,29 @@
+h1{
+    color: #ffffff;
+    font-size: 40px;
+    background: black;
+    line-height: 100px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+h1:hover{
+    background-color: brown;
+}
+
+
+
+
+
+
+p{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bolder;
+    margin-left: 20px ;
+}
+img{
+    width:500px;
+    height: 300px;
+    margin-left: 20px;
+}
